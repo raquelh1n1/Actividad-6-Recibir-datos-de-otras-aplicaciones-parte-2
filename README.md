@@ -1,0 +1,1 @@
+# Actividad-6-Recibir-datos-de-otras-aplicaciones-parte-2
